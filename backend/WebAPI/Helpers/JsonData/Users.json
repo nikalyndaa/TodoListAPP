@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Email": "manager@gmail.com",
+    "FirstName": "Ольга",
+    "LastName": "Коваленко",
+    "Image": "https://i.pravatar.cc/1200",
+    "Roles": [ "user" ],
+    "Password": "Man123!"
+  },
+  {
+    "Email": "developer@gmail.com",
+    "FirstName": "Максим",
+    "LastName": "Шевченко",
+    "Image": "https://i.pravatar.cc/1200",
+    "Roles": [ "user" ],
+    "Password": "Dev123"
+  },
+  {
+    "Email": "anna.support@gmail.com",
+    "FirstName": "Анна",
+    "LastName": "Мельник",
+    "Image": "https://i.pravatar.cc/1200",
+    "Roles": [ "admin" ],
+    "Password": "rt2026!"
+  }
+]

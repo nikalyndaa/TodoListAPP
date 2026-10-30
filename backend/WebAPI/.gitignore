@@ -1,0 +1,53 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.idea/
+.vs/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== .NET (backDigitalBank) =====
+bin/
+obj/
+out/
+*.pdb
+*.dll
+*.cache
+
+# user secrets / local overrides — keep committed appsettings.json generic,
+# never commit real connection strings or keys
+**/appsettings.*.json
+!**/appsettings.json
+!**/appsettings.*.json.example
+secrets.json
+
+# ===== Node / React (frontDigitalBank) =====
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# env files
+.env
+.env.*
+!.env.example
+
+# ===== Claude / editor tooling =====
+.claude/
+
+WebAPI/images

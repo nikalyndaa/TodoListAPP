@@ -1,0 +1,76 @@
+﻿[
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Підготувати звіт за жовтень",
+    "Description": "Зібрати дані по проєктах і оформити короткий звіт для керівника.",
+    "Status": "В процесі",
+    "Priority": "Високий",
+    "DueDate": "2026-10-10T15:00:00Z"
+  },
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Купити продукти",
+    "Description": "Молоко, хліб, яйця, овочі.",
+    "Status": "До виконання",
+    "Priority": "Низький",
+    "DueDate": "2026-10-06T18:00:00Z"
+  },
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Записатися до стоматолога",
+    "Description": "Подзвонити в клініку та обрати зручний час на наступний тиждень.",
+    "Status": "До виконання",
+    "Priority": "Середній",
+    "DueDate": "2026-10-12T09:00:00Z"
+  },
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Оплатити комунальні послуги",
+    "Description": "Оплатити рахунки за вересень.",
+    "Status": "Виконано",
+    "Priority": "Терміновий",
+    "DueDate": "2026-10-03T12:00:00Z",
+    "CompletedAt": "2026-10-02T17:30:00Z"
+  },
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Подивитися вебінар по .NET",
+    "Description": "Скасовано, бо збігається з робочою зустріччю.",
+    "Status": "Скасовано",
+    "Priority": "Низький"
+  },
+  {
+    "UserEmail": "user@gmail.com",
+    "Title": "Старе завдання (видалене)",
+    "Description": "Приклад задачі з м'яким видаленням.",
+    "Status": "До виконання",
+    "Priority": "Низький",
+    "IsDeleted": true,
+    "DeletedAt": "2026-10-01T10:00:00Z"
+  },
+  {
+    "UserEmail": "admin@gmail.com",
+    "Title": "Перевірити резервні копії БД",
+    "Description": "Переконатися, що нічні бекапи створюються і відновлюються.",
+    "Status": "В процесі",
+    "Priority": "Терміновий",
+    "DueDate": "2026-10-07T12:00:00Z"
+  },
+  {
+    "UserEmail": "admin@gmail.com",
+    "Title": "Оновити залежності проєкту",
+    "Description": "Оновити NuGet-пакети та прогнати тести.",
+    "Status": "До виконання",
+    "Priority": "Середній",
+    "DueDate": "2026-10-15T16:00:00Z"
+  },
+  {
+    "UserEmail": "admin@gmail.com",
+    "Title": "Налаштувати ролі користувачів",
+    "Description": "Перевірити права доступу для ролей admin та user.",
+    "Status": "Виконано",
+    "Priority": "Високий",
+    "DueDate": "2026-10-01T12:00:00Z",
+    "CompletedAt": "2026-09-30T14:20:00Z"
+  }
+]
